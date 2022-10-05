@@ -1,0 +1,17 @@
+
+#list-bugs {
+  color: purple;
+  font-style: italic;
+  padding: 20px;
+  border: solid 1px black;
+  background-color: blue;
+
+}
+
+p.red-one {
+  color: red;
+}
+
+div.kirbycall p {
+  color: pink;
+}

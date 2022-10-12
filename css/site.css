@@ -1,26 +1,27 @@
 
 #header {
     font-family: Verdana;
-    color: #cf4271;
-    background-color: #ffd1f7
-    padding: 60px;
+    font-size: 25px;
+    color: #36043b;
+    background-color: #B3DEC1;
+    padding: 15px;
     text-align: center;
-    border: 3px solid #cf4271;
+    border: 1px solid #36043b;
     border-radius: 8px;
-    background: #edadd0;
+
 
 }
 
 
 #intro p {
-    color: #cf4271;
-    background-color: #edadd0;
+    color: #36043b;
+    background-color: #B3DEC1;
     padding: 7px;
     border-radius: 8px;
     font-family: Verdana;
-    border-style: double;
+    /*border-style: double;*/
     text-align: center;
-
+    font-size: 20px;
 }
 
 
@@ -30,7 +31,7 @@
     vertical-align: middle;
   	/*  margin-left: 48%; */
     margin-left: 50%;
-    border: 3px solid #cf4271;
+    border: 1px solid #36043b;
     border-radius: 8px;
 }
 
@@ -40,31 +41,43 @@
     vertical-align: middle;
     /* margin-left: 44.75%;--> */
     margin-left: 50%;
-    border: 3px solid #cf4271;
+    border: 1px solid #36043b;
     border-radius: 8px;
 
 
 }
 
 main {
-    background-color: #f7d5eb;
+    background-color: #DBF9F0;
 
 
 
 }
 
+h2 {
+  font-family: Verdana;
+  font-size: 30px;
+  color: #36043b;
+  text-align: center;
+}
 
-
-
-#intro {
+div.assignments_major_section {
+  background-color: #B3DEC1;
+  padding: 15px;
+  text-align: center;
+  border: 1px solid #36043b;
+  border-radius: 8px;
 
 }
 
+ul {
+  font-family: Verdana;
+  font-size: 20px;
+  color: #36043b;
+  text-align: center;
 
 
-
-
-
+}
 
 
 

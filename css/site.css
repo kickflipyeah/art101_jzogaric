@@ -1,9 +1,13 @@
 
-#site_top {
+#header {
     font-family: Verdana;
     color: #cf4271;
     background-color: #ffd1f7
-    padding-top:
+    padding: 60px;
+    text-align: center;
+    border: 3px solid #cf4271;
+    border-radius: 8px;
+    background: #edadd0;
 
 }
 
@@ -27,6 +31,7 @@
   	/*  margin-left: 48%; */
     margin-left: 50%;
     border: 3px solid #cf4271;
+    border-radius: 8px;
 }
 
 #atlas {
@@ -36,8 +41,20 @@
     /* margin-left: 44.75%;--> */
     margin-left: 50%;
     border: 3px solid #cf4271;
+    border-radius: 8px;
+
 
 }
+
+main {
+    background-color: #f7d5eb;
+
+
+
+}
+
+
+
 
 #intro {
 

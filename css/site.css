@@ -1,4 +1,74 @@
 
+#site_top {
+    font-family: Verdana;
+    color: #cf4271;
+    background-color: #ffd1f7
+    padding-top:
+
+}
+
+
+#intro p {
+    color: #cf4271;
+    background-color: #edadd0;
+    padding: 7px;
+    border-radius: 8px;
+    font-family: Verdana;
+    border-style: double;
+    text-align: center;
+
+}
+
+
+#my_portrait {
+    width: 13%;
+    height: auto;
+    vertical-align: middle;
+  	/*  margin-left: 48%; */
+    margin-left: 50%;
+    border: 3px solid #cf4271;
+}
+
+#atlas {
+    width:13%;
+    height:auto;
+    vertical-align: middle;
+    /* margin-left: 44.75%;--> */
+    margin-left: 50%;
+    border: 3px solid #cf4271;
+
+}
+
+#intro {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #list-bugs {
   color: purple;
   font-style: italic;

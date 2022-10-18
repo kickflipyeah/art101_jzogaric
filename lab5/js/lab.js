@@ -9,7 +9,7 @@
  var make = "Honda";
  var model = "Civic";
  var color = "Gray";
- var year = "2019";
+ var year = 2019;
 
 //calculations
 var age = 2022 - year;

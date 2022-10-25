@@ -10,7 +10,7 @@
  function userName_sort() {
    //prompts window and asks for name
    var userName = window.prompt("Hello, Please enter your username so I can sort it!");
-   console.log("userName =", userName);
+   console.log("userName = jess", userName);
    //split the string to an array of the characters
    var userArray = userName.split("");
    console.log("userArray =", userArray);
@@ -20,7 +20,11 @@
    //return the sorted array
    var userArray_join = userArray_sort.join("");
    console.log("userArray_join =", userArray_join);
-   return userArray_join;
+   //make first letter Uppercase
+   var userUppercase = userArray_join.charAt(0).toUpperCase() + userArray_join.slice(1);
+   console.log("userUppercase =", userUppercase);
+
+   return userUppercase;
    //this function has the potential to be shortened to just userName.toLower().split("").sort().join("")
  }
 

@@ -7,6 +7,7 @@
 
 //function creates pop up, prompts user, splits string to array, sorts array,
 //puts array back into string, and then returns a sorted name.
+
  function userName_sort() {
    //prompts window and asks for name
    var userName = window.prompt("Hello, Please enter your username so I can sort it!");

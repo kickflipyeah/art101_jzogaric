@@ -34,7 +34,7 @@ main {
     border-radius: 8px;
 }
 
-.output {
+#output {
   color: #36043b;
   background-color: #B3DEC1;
   padding: 30px;

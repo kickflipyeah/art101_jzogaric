@@ -43,3 +43,10 @@ main {
   text-align: left;
   font-size: 18px;
 }
+
+.special {
+  background-color: #7e68de;
+  border-style: dotted;
+  text-align: center;
+  font-family: fantasy;
+}

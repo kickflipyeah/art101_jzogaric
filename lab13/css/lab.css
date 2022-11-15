@@ -1,0 +1,45 @@
+h1 {font-family: Verdana;
+    font-size: 30px;
+    color: #36043b;
+    text-align: center;
+    background-color: #B3DEC1;
+    padding: 15px;
+    text-align: left;
+    border: 1px solid #36043b;
+    border-radius: 8px;
+}
+
+p {
+  color: #36043b;
+  background-color: #B3DEC1;
+  padding: 30px;
+  border-radius: 8px;
+  font-family: Verdana;
+  text-align: left;
+  font-size: 18px;
+}
+
+main {
+    background-color: #DBF9F0;
+}
+
+h3 {font-family: Verdana;
+    font-size: 30px;
+    color: #36043b;
+    text-align: center;
+    background-color: #B3DEC1;
+    padding: 15px;
+    text-align: left;
+    border: 1px solid #36043b;
+    border-radius: 8px;
+}
+
+#output {
+  color: #36043b;
+  background-color: #B3DEC1;
+  padding: 30px;
+  border-radius: 8px;
+  font-family: Verdana;
+  text-align: left;
+  font-size: 18px;
+}
